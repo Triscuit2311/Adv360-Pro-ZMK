@@ -1,1 +1,50 @@
-[]
+[
+	{
+		"code": "CTRL+V",
+		"name": "CTRL+V",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "COPY",
+		"name": "COPY",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "CUT",
+		"name": "CUT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "UNDO",
+		"name": "UNDO",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "SNIP",
+		"name": "SNIP",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "SWITCH",
+		"name": "SWITCH",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
